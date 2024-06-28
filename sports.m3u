@@ -1,0 +1,55 @@
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.dinesh29.com.np/license/key/star-sports-1-hd/key.json
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="Sports;HD",Star Sports 1 HD
+https://tataplay.dinesh29.com.np/live/tataplay/star-sports-1-hd/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.dinesh29.com.np/license/key/star-sports-2-hd/key.json
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="Sports;HD",Star Sports 2 HD
+https://tataplay.dinesh29.com.np/live/tataplay/star-sports-2-hd/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports;HD",Star Sports hindi HD
+https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports;HD",Star Sports 1 Hindi HD
+http://176.119.29.52/live.ts?channelId=295&deviceMac=00:1A:79:0A:CA:4F
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="AADI SPORTS ⚽",Star Sports Select 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="AADI SPORTS ⚽",Sony sports 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="AADI SPORTS ⚽",Sony Sports 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png" group-title="AADI SPORTS ⚽",Sony sports 3 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="AADI SPORTS ⚽",Sony sports 4 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="AADI SPORTS ⚽",Sony sports 5 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="AADI SPORTS ⚽",Astro cricket 
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="AADI SPORTS ⚽",Fox cricket 501 
+http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="AADI SPORTS ⚽",sky sports cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="http://stariptv.fun/logos/willowxtra.png" group-title="AADI SPORTS ⚽",willow cricket
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="http://live.geoiptv.org:8880/channels_icon/84054722101.png" group-title="AADI SPORTS ⚽",sky sports football
+http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-id="1070" group-title=" 𝙍𝘼𝘿𝙃𝙀       𝙍𝘼𝘿𝙃𝙀" tvg-logo="https://w0.peakpx.com/wallpaper/71/1019/HD-wallpaper-krishna-govind-gwala-kanha-lord-lord-krishna-madhav-muralidhar-ranchhod-shrikrishna.jpg" ,PLAYLIST BY AADI-TG
+https://t.me/@TG_AADI
