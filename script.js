@@ -1,1 +1,2 @@
-alert("WHY ARE YOU CAME HER ")
+//alert("WHY ARE YOU CAME HER ")
+//
