@@ -1,3 +1,11 @@
-body{ backgroun-image:url(https://te.legra.ph/file/129c333bd69dfdf6f3c90.png)
+/* body{ backgroun-image:url(https://te.legra.ph/file/129c333bd69dfdf6f3c90.png)
  
+} */
+
+.text-img{
+  font-size: 100px;
+   background-image: url(https://cdhf.ca/wp-content/uploads/2022/11/brown-poop.webp);
+   background-size: contain;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }
