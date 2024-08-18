@@ -6,6 +6,6 @@
   font-size: 100px;
    background-image: url(https://cdhf.ca/wp-content/uploads/2022/11/brown-poop.webp);
    background-size: contain;
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
+/*    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent; */
 }
